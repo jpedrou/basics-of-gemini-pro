@@ -1,6 +1,6 @@
-<img src='https://cdn.mobilesyrup.com/wp-content/uploads/2024/03/gemini-logo.png'>
 
-# Gemini Pro Demonstration
+<p align = 'center'><img width=100 src='google-gemini-icon.png'></p>
+<h1 align = 'center'>Gemini Pro Demonstration</h1>
 
 Repository developed with the goal to demonstrate the most common uses of the New Google's Artificial Intelligence called **Gemini**. 
 To use this tecnology it is needed to have an API key, if you don't have it yet, check this [link](https://ai.google.dev/).
